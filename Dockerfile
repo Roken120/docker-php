@@ -55,7 +55,7 @@ ARG DEPS="\
         php7.1-gd \
         php7.1-intl \
         php7.1-pdo \
-        php7.1-mysql \
+        php7.1-mysqli \
         php7.1-soap \
         php7.1-posix \
         php7.1-litespeed \
